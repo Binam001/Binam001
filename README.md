@@ -1,5 +1,4 @@
-# Hi 👋, I'm Binam Shrestha 
-🚀 Full Stack Developer | 🌍 From Nepal  
+# Hi 👋, I'm Binam Shrestha
 
 I am a Computer Engineering graduate with hands-on experience in React and basic backend development (Node.js/Express). Enthusiastic about web and mobile app development, I have also worked on a small AI/ML project using Python. I am seeking an internship or training opportunity to enhance my skills and gain practical experience, and I am eager to contribute to an AI-based internship.
 
