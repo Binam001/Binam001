@@ -14,7 +14,3 @@ I am a Computer Engineering graduate with hands-on experience in React and basic
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-
-## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binam001&show_icons=true&theme=radical)
