@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Binam Shrestha
-**A passionate Wed Developer**
+**...**
 
 
 ## 🌐 Socials:
