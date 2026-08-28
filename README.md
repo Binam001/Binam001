@@ -1,5 +1,9 @@
 # 💫 Hi 👋, I'm Binam Shrestha
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
  ```                                                           
  ==========================================================
  ============================÷××××÷÷=======================
@@ -55,10 +59,6 @@
 -->
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/binam.shrestha.948) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nameisbinam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binam-shrestha-910543379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binamshrestha770@gmail.com) 
