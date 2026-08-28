@@ -3,7 +3,75 @@
 <!-- <div align="center">
   <img src="/ascii-art-binam.txt" alt="Snake animation" />
 </div> -->
-
+                                                                                                    
+ xxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxx 
+ xxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$&&&$X&&$xxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$$XX&&&X&&&& &&&X &$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&& &&x+&&&       XX&&&+$xxXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxx&&  $&&&    &+   :    . &&&&&&&&$XXxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&&          &&$:  &&     ; &&  &&&x$xxx+xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxx+xxxxxxxxxxx+xxxxxxxxxxxxxx&&&&&    XxXX.     :    &          ;;..&xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxx+xxxxxxxX&&&          x&:         x:     .   .X &&$xxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx$&&                         ;   &      ;  &&$xxxxxxxxxx+xxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxx&&&          :                              $&$xxxxxxxxxxx+xxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxX&&&             $&&+XX         +            ; +&X+xxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxx&&&                                       $    x &$xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxX&&&                                 &    .+       &&xxxxxxxxxxxxxxxxxxx+xx 
+ xxxxxxxxxxxxxxxxxxxxxxX&&                ;;+X&&&&&&&X&&&&$             &  :$xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxx&&               ++X$$&&$$Xx;Xx$$&&&&&         .   &&$xxxxx+xxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxx&&&            ..Xx+XxXXxx+x$X$XXx$&&&&&&   .:.:;  &&$xxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxX&             xX&$x:;+++XXxxxx++xx++xX$&&&X         &xxxxxxxxxxx+xxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxx&&            +Xx::;++;+x:+&X$xx$$$$XxxXX&&&&;      &&xxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxx&X          . x&&&&&&&&&&&&$$$X&&&&&&&&&&;&&&&  x   &Xxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxx+xxxxxxxxxxxx&          X;x&         .+$$++XXX        .   &&  & &&xxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxx&&         ;    X&&+      . :;:;:.;X&&&&&&&&$;&    &&xxxxxxxx+xxxxxxxxxxxxxx+x 
+ xxxxxxxxxxxxxxxxxxxxx&&       ;   $&$$$&&&&&+.  ;&&X+++$&&&&&&&$$X&&  x&Xxxxxxxxxxxxxx+xxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxx&&;        ++.X&&&&&.+&+   x&&$$X         :x&&&  $&xxxxxxx+xxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxx&&     .  :           &  :xx&$x&&      ;;   X&  &&xxx+xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxx&&           ;x$&&&&&X:. ;+xX+x$&&&&&&&&&&$x&+ &Xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxx&&    .. .:;;XXXxXXx: .:XX$$X+;X$$&XX$&&&$X$X $xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxX&&   + +&&&&$$X;++X.  .$&&&&$x+$&&$XXxX$$$&X.&&$xxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxX&&   :;xX$XX++x$$&$ X&$&&x$&&&&X;x&&&$XXXx$$.  Xxxxxxxx+xxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxx$&     :;+;;+++xxX&  &   $X:    +; ::X&XX$X$X: +xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxx$&     .:+::.+XXX&$+  .    ;&&&&&&&X$XX$$XxXX. $xxxxxx+xxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxX&       .:  ;;+&&&&&   .&&+ .    $&&&XXx+xX$  &xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxx&&      ;;::;+$$.   ;&&x;x&$$&X&&   $XxXXxxx  $xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxx&&      +.;; ;    &&                +xXX$xXX ;Xxxx+xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxX&         .;       &&&&&&&&&&&&x    +$X+xX; $Xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxx&&           +X&&$     ;.     :$&&&XXXXXX$  &xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxx+xxxxxxxxxxxxxxxxxxxxxxx&&&x       .x$$&X;         .xXxXX$xxx+ :+ ;&xxxxxxxxxxxxxxxxxxxxxx+xxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&   .  .  ;+++x&&&&&&&&&&&&$XXX+xx;X:; &X+xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&     .    Xx$Xx:xxXx&$X$&&$$&$Xx+:. &&xxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX&&          ::     ;x: ;; XX$$:.+.  X&xxxxxx+xxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&              ;;;  .   :$X.     &&Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&                  . xX.      &&&xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX&;      ..    &:    .        X&xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xx+xxxxxxxxxxx+xxxxxxxxxxxxxxxxxxx&x                        .Xx+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&x                   . $Xxxxx:Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX&+             :+$$$X$xxxX&$x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&                   .;++++xxx:xxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxX&&&          ..      ;+xXxX$x+++.xxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx$&&&    ..:::.:::....;+xX$$xx+;;;;+:Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxx+xxxxxxxxxxxxxxxxxXxxxxXX        .    .:++;;:;;:;;+++++;+xx+;+xxxxxxxxxxxxxxxx+xxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxx+++xxxx+  :+   &&&&:     ;;:+;;++;;;++;;;+x+++x+x.;;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxx++++xx+:+::.:.:xXX$$&&&&&&&&&&&     .++x+++;;x+xx+;:+x+: x$ ;+++xxxxxxxxxxxxxxxxxxxxxxxxx 
+ ;::;;+++;;XXXx  $&&&XX$&&&x$$&&&$&&$$xX$$&&&X.    .:::;:::.  .   &&&&: .. .;+xxxxxxxxxxxxxxxxxxxxx 
+ $&&$$X::+&&+; :&$x+xx&&$++&$$$&$$&$$&$&&&&x:;X$&&&&&XXxX$&&&Xx$$$&&X&&&&&&&+ :++xxxxxxxxxxxxxxxxxx 
++X;+xX+x$&$XX X&&&&&&$xx:;$XX$X$$&$&&&$$$$&&&&&x;;.;+x+++xXX$$$&&&XXx&X$&x&&$&$:..::::;;+xxxxxxxxxx 
+ +X$XxX$&&&+ $&&&&&&&x+;xX&X$&x+&&XXxX$&&$X$$$&&&&&&&&&&&&&&&&&$XX&&$&x;$&XX&X$$&&&&&&Xx:::;+xxxxxx 
+ xXX$X$X&$; &&&&&$X$x:;+X$x$x$X&&&+xX$$$$&&&&&&&$&&$XXxXXXx+$&&X$&+xx&x;x&&$$X&XXx$XX$&$&&&x+;;;+++ 
+ X$xX&&&$  $&&&&$$&+;;XxXXXX&&&&X;:XX&&&&&XXXXxX&&Xx$&&Xx$&$&x:x&&:xX&&x;;$&x$X$XxxxXX$xX&x;&$x+x+: 
+ &X;$&&&  &&+&&&XX;:;XXXX$X$&&&$;;x$&&$&X$x$XXX$&&+x$&$+X&&&$:x&&&;+x&&$x::&&$$X$&xXxX$xx$$++&&$XX$ 
+ &XXX&X  &&&&&$XX;;xXX+XX$&&&&XX;xx$&&&&XXXXxX$X$$xx&$xXX&&&$ x&&$x++&&&$X:;&&$X$x&XxXXxXX$$++&&$$X 
+ $$+X&  &&&&&XX+;+;XXxx$X&&&XXX;+$$&&&$X$XX+x&$XXXXX$+x$X$&&& ;&&XX+X&&&$&X:X&X$$&XX&xXX+xX&x+xX&&X 
+ x$X&  &&&&x+++x++X+;+X&$&XX$x;xxX&$&&$$$$xXx&&XX$&&XXx$&&&&& ;&&Xx;+&&&$$&+;X&X$$&$X$$x$xxx&x+X;&& 
+ $$X  &&+Xxx$Xxxx+:;xX$&&X&$x+XX$X$X&&$$XxxX$X&XXx&X$xxX$&&&$ ;&&Xx++$$&$X&X;;&&X$$X$$XXX$XXxXXX$+$.
+ $x. X&:XXxxx+x$+:;&&&&&$$$;+xX+xX&&$XXXXXx$x+$$$X$$&xX+X&&&$ +&&$+++X&&&X$&X:+&&X$X$$$$$XX$Xx+XX$x:
+ X: +&xxxxXX++XX :$&$&&$xx+;X&X+XX$$$$X$$XX;xx$$&&&X+xX+XX&&& x&&$x;;$&&&xX$&X:;&$XX$$$XX$$XX$X+x$X 
+    xX                            ...        :....;:    .:+x   x$.     +x.  ..   :... ..    .       
 
 <!--
 ![](https://github-readme-stats.shion.dev/api?username=Binam001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
